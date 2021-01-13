@@ -5,4 +5,5 @@ url_style=absolute
 
 [servers.ghpages]
 name = Prod
-target = ghpages+https://nanashinogonbee:cfac497f3cbb7329cb4b87b6e127d1d6e00422ea@lektor-test/
+target = ghpages+https://tsirulikivan:baf9fc036c9e8d2ae39a87e26fe29742a8f6d201@tsirulikivan/tsirulikivan.github.io
+
